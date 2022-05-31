@@ -1,0 +1,18 @@
+.odd {
+    background-color: #ffc0cb;
+    font-family: Verdana, "Geneva", "DejaVu Sans", sans-serif;
+}
+#first-even {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.odd.second {
+    font-size: 24px;
+}
+
+#second-even {
+    background-color: hsl(120, 73%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+}
